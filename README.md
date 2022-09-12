@@ -1,17 +1,32 @@
 <div id="header" align="center">
 <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e473i4kvlw0oqhs0qugc11bof6ayo7dhhopkoi6d5vb&rid=giphy.gif&ct=g" width="400"/> 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD-%D0%BF%D0%B5%D1%82%D1%80%D0%B5%D0%BD%D0%BA%D0%BE-505b98220/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://m.facebook.com/100023856827972/">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
 </div>
+ <img src="https://komarev.com/ghpvc/?username=KestPetrenko&style=flat-square&color=blue" alt=""/>
+</div>
+
+<div align="center">
  <a>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A2EF&background=050F2C&center=true&vCenter=true&width=800&lines=Доброго вечора, ми з України">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A2EF&background=050F2C&center=true&vCenter=true&width=800&lines=Доброго вечора, ми з України!">
 </a>
- :telescope: Previously, I worked all the time in e-commerce projects, now I want to change direction a bit
- <br>                                                    
- :seedling: I study frontend courses in ITVDN.
- <br>                                                        
- :zap: In my free time, I solve technical problems and read tech articles.  
-                                                     
- :zap: Looking for a job where my knowledge will improve. I like programming and I want to improve                                                 
-      :hammer_and_wrench: Languages and Tools :
+ </div>
+ 
+ :telescope: Previously, I worked all the time in e-commerce projects, now I want to change direction a bit.
+ 
+ :seedling: I study frontend courses in ITVDN.      
+ 
+ :zap: In my free time, I solve technical problems and read tech articles.   
+ 
+ :zap: Looking for a job where my knowledge will improve. I like programming and I want to improve.
+ 
+ 
+ :hammer_and_wrench: Languages and Tools :
 <br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
