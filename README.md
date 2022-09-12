@@ -20,11 +20,11 @@
  </div>
 <br> 
  :telescope: Previously, I worked all the time in e-commerce projects, now I want to change direction a bit.
- 
+<br> 
  :seedling: I study frontend courses in ITVDN.      
- 
+<br> 
  :zap: In my free time, I solve technical problems and read tech articles.   
- 
+<br> 
  :zap: Looking for a job where my knowledge will improve. I like programming and I want to improve.
  
  
