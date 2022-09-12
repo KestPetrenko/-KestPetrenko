@@ -19,16 +19,16 @@
 <br>  
  </div>
 <br> 
- :telescope: Previously, I worked all the time in e-commerce projects, now I want to change direction a bit.
+ :technologist: Previously, I worked all the time in e-commerce projects, now I want to change direction a bit.
 <br> 
- :seedling: I study frontend courses in ITVDN.      
+ :student: I study frontend courses in ITVDN.      
 <br> 
- :zap: In my free time, I solve technical problems and read tech articles.   
+ :mechanic: In my free time, I solve technical problems and read tech articles.   
 <br> 
- :zap: Looking for a job where my knowledge will improve. I like programming and I want to improve.
+ :male_detective: Looking for a job where my knowledge will improve. I like programming and I want to improve.
  
  
- :hammer_and_wrench: Languages and Tools :
+ :superhero_man: Languages and Tools :
 <br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
