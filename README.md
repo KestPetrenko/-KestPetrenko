@@ -12,11 +12,13 @@
 </div>
 
 <div align="center">
+<br>  
  <a>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A2EF&background=050F2C&center=true&vCenter=true&width=800&lines=Доброго вечора, ми з України!">
 </a>
+<br>  
  </div>
- 
+<br> 
  :telescope: Previously, I worked all the time in e-commerce projects, now I want to change direction a bit.
  
  :seedling: I study frontend courses in ITVDN.      
