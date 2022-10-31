@@ -45,14 +45,14 @@
         <tr style="align: center">:fire:My Statistics</tr>
     </thead>
     <tbody>
-<!--         <tr>
+      <tr>
             <th>
                 <a>
                     <img src="https://github-readme-stats.vercel.app/api?username=KestPetrenko&count_private=true&show_icons=true&theme=algolia&border_radius=20">
                 </a>
             </th>
         </tr>
-        <tr> -->
+        <tr> 
             <th>
                 <a>
                     <img src="https://github-readme-streak-stats.herokuapp.com?user=KestPetrenko&theme=algolia&hide_border=true&border_radius=20">
@@ -62,7 +62,7 @@
         <tr>
             <th>
                 <a>
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanDelinkevych&count_private=true&show_icons=true&theme=algolia&border_radius=20">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KestPetrenko&count_private=true&show_icons=true&theme=algolia&border_radius=20">
                 </a>
             </th>
         </tr>
